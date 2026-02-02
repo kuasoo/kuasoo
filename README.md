@@ -1,16 +1,42 @@
-## Hi there 👋
+<!-- ========================================================= -->
+<!--   PORTAFOLIO PROFESIONAL DE CIBERSEGURIDAD - JESÚS LÓPEZ  -->
+<!-- ========================================================= -->
 
-<!--
-**kuasoo/kuasoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">🔵 Jesus Leonel Lopez Granados</h1>
+<h3 align="center">Ingeniero en Sistemas Computacionales | SOC Analyst en Formación | Blue Team</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://img.shields.io/badge/Blue%20Team-0A66C2?style=for-the-badge&logo=shield&logoColor=white" />
+  <img src="https://img.shields.io/badge/SOC%20Analyst%20Trainee-1E90FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cybersecurity-111827?style=for-the-badge&logo=hackthebox&logoColor=green" />
+</p>
+
+---
+
+## 🧑‍💻 Sobre mí
+
+Soy **Ingeniero en Sistemas Computacionales** y actualmente me estoy formando como **Analista SOC Jr**.  
+Mi enfoque principal está en:
+
+- Monitoreo de eventos de seguridad  
+- Análisis de logs en entornos Windows y Linux  
+- Técnicas básicas de detección y respuesta a incidentes  
+- Configuración de laboratorios de prácticas  
+- Comprender cómo se comportan los ataques reales  
+
+No soy experto aún, pero **tengo disciplina, motivación y ganas de mejorar cada día**.
+
+---
+
+## 🔐 Habilidades Técnicas (nivel actual realista)
+
+```txt
+🔵 SIEM: Splunk (básico), Wazuh (básico), ELK (aprendizaje)
+🔵 Sistemas: Windows Server / Win10, Linux Ubuntu/Kali
+🔵 Logs: 4624, 4625, 4688, Sysmon EventID 1, 3, 10
+🔵 Detección: Sigma (básico), YARA (principiante)
+🔵 Redes: TCP/IP, DNS, captura de paquetes
+🔵 Herramientas: Wireshark, Sysmon, PowerShell, Bash
+🔵 Programación: Python básico para automatización
