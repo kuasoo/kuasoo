@@ -2,7 +2,7 @@
 <!--   PORTAFOLIO PROFESIONAL DE CIBERSEGURIDAD - JESÚS LÓPEZ  -->
 <!-- ========================================================= -->
 
-<h1 align="center">🔵 Jesus Leonel Lopez Granados</h1>
+<h1 align="center">🔵 Jesus Lopez</h1>
 <h3 align="center">Ingeniero en Sistemas Computacionales | SOC Analyst en Formación | Blue Team</h3>
 
 ---
