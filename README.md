@@ -1,7 +1,3 @@
-<!-- ========================================================= -->
-<!--   PORTAFOLIO PROFESIONAL DE CIBERSEGURIDAD - JESÚS LÓPEZ  -->
-<!-- ========================================================= -->
-
 <h1 align="center">🔵 Jesus Lopez</h1>
 <h3 align="center">Ingeniero en Sistemas Computacionales | SOC Analyst en Formación | Blue Team</h3>
 
@@ -39,4 +35,4 @@ No soy experto aún, pero **tengo disciplina, motivación y ganas de mejorar cad
 🔵 Detección: Sigma (básico), YARA (principiante)
 🔵 Redes: TCP/IP, DNS, captura de paquetes
 🔵 Herramientas: Wireshark, Sysmon, PowerShell, Bash
-🔵 Programación: Python básico para automatización
+🔵 Programación: Python básico para automatización, C (en aprendizaje)
